@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/ric/!svn/ver/1/voip/trunk/include
+END
+sip.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ric/!svn/ver/1/voip/trunk/include/sip.h
+END
+g711.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ric/!svn/ver/1/voip/trunk/include/g711.h
+END
+audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ric/!svn/ver/1/voip/trunk/include/audio.h
+END
+rtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ric/!svn/ver/1/voip/trunk/include/rtp.h
+END

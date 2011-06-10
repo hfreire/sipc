@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/ric/!svn/ver/1/voip/trunk/src
+END
+voz.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ric/!svn/ver/1/voip/trunk/src/voz.c
+END
+g711.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ric/!svn/ver/1/voip/trunk/src/g711.c
+END
+audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ric/!svn/ver/1/voip/trunk/src/audio.c
+END
+rtp.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ric/!svn/ver/1/voip/trunk/src/rtp.c
+END
+sip.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ric/!svn/ver/1/voip/trunk/src/sip.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ric/!svn/ver/1/voip/trunk/src/Makefile
+END
